@@ -36,7 +36,7 @@ Follow these steps to set up and run the project locally.
 
 ## **Directory Structure**  
 
-- `/persons`: Folder where employee images are stored.
+- `/persons`: Folder where  images are stored.
 - `app.py`: Main Streamlit application.
 - `main.py`: Contains utility functions like face encoding and detection.
 
